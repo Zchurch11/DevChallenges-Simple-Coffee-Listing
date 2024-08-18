@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DevChallenges-Simple-Coffee-Listing/static/css/main.d14ed62b.css",
+    "main.js": "/DevChallenges-Simple-Coffee-Listing/static/js/main.899e1f85.js",
+    "static/media/bg-cafe.jpg": "/DevChallenges-Simple-Coffee-Listing/static/media/bg-cafe.ed22aff1614ae837ee21.jpg",
+    "index.html": "/DevChallenges-Simple-Coffee-Listing/index.html",
+    "main.d14ed62b.css.map": "/DevChallenges-Simple-Coffee-Listing/static/css/main.d14ed62b.css.map",
+    "main.899e1f85.js.map": "/DevChallenges-Simple-Coffee-Listing/static/js/main.899e1f85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14ed62b.css",
+    "static/js/main.899e1f85.js"
+  ]
+}
