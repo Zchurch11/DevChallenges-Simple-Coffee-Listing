@@ -1,7 +1,7 @@
 {
   "name": "simple-coffee-listings",
   "version": "0.1.0",
-  "homepage": "https://zchurch11.github.io/DevChallenges-Simple-Coffee-Listing/",
+  "homepage": "https://zchurch11.github.io/DevChallenges-Simple-Coffee-Listing",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
